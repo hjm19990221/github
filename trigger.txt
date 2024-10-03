@@ -1,1 +1,1 @@
-bitnami/jenkins:2.462.3-debian-12-r0  registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:jenkins:2.462.3-debian-12-r0
+bitnami/jenkins:2.462.3-debian-12-r0  registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.462.3-debian-12-r0
