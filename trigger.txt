@@ -1,1 +1,1 @@
-docker.kubeasy.com/rancher/mirrored-pause:3.6  registry.cn-hangzhou.aliyuncs.com/hujiaming/mirrored-pause:3.6
+docker.io/calico/cni:v3.28.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.28.2
