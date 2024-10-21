@@ -1,1 +1,1 @@
-kubernetesui/dashboard:v2.7.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/kubernetesui/dashboard:v2.7.0
+kubernetesui/dashboard:v2.7.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard:v2.7.0
