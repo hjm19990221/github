@@ -1,4 +1,1 @@
-docker.io/kubernetesui/dashboard-api:1.9.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-api:1.9.0
-docker.io/kubernetesui/dashboard-auth:1.2.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-auth:1.2.0
-docker.io/kubernetesui/dashboard-metrics-scraper:1.2.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-metrics-scraper:1.2.0
-docker.io/kubernetesui/dashboard-web:1.5.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-web:1.5.0
+registry.cn-beijing.aliyuncs.com/dotbalo/golang:kubeadm  registry.cn-hangzhou.aliyuncs.com/hujiaming/golang:kubeadm
