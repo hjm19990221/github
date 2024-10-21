@@ -1,1 +1,2 @@
-docker.io/calico/kube-controllers:v3.28.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.28.2
+kubernetesui/metrics-scraper:v1.0.8 registry.cn-hangzhou.aliyuncs.com/hujiaming/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/kubernetesui/dashboard:v2.7.0
