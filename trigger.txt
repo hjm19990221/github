@@ -1,5 +1,2 @@
-mysql:8  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8
-redis:6.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6.2
-victoriametrics/victoria-metrics:v1.79.12 registry.cn-hangzhou.aliyuncs.com/hujiaming/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/nightingale:latest
-flashcatcloud/categraf:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/categraf:latest
+flashcatcloud/nightingale:7.6.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/nightingale:7.6.0
+flashcatcloud/categraf:v0.3.82  registry.cn-hangzhou.aliyuncs.com/hujiaming/categraf:v0.3.82
