@@ -1,2 +1,1 @@
-flashcatcloud/nightingale:7.6.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/nightingale:7.6.0
-flashcatcloud/categraf:v0.3.82  registry.cn-hangzhou.aliyuncs.com/hujiaming/categraf:v0.3.82
+maven:3.9.6  registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.9.6
