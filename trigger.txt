@@ -1,1 +1,1 @@
-maven:3.9.6  registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.9.6
+openjdk:11.0.11-9-jre  registry.cn-hangzhou.aliyuncs.com/hujiaming/openjdk:11.0.11-9-jre
