@@ -1,1 +1,1 @@
-maven:3.8.6-jdk-8  registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.8.6-jdk-8
+bitnami/rabbitmq:4.0.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/rabbitmq:4.0.3
