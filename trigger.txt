@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/mysqld-exporter registry.cn-hangzhou.aliyuncs.com/hujiaming/mysqld-exporter:v1.0.0
+redis:6  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6
