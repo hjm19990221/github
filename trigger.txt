@@ -1,1 +1,1 @@
-oliver006/redis_exporter:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis_exporter:latest
+nginx/nginx-prometheus-exporter:1.4  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx-prometheus-exporter:1.4
