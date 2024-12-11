@@ -1,1 +1,1 @@
-redis:6  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6
+oliver006/redis_exporter:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis_exporter:latest
