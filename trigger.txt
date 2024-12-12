@@ -1,1 +1,3 @@
-nginx/nginx-prometheus-exporter:1.4  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx-prometheus-exporter:1.4
+redis:5.0.7  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:5.0.7
+tomcat:8.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/tomcat:8.0
+
