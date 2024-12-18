@@ -1,1 +1,1 @@
-tomcat:10.0   registry.cn-hangzhou.aliyuncs.com/hujiaming/tomcat:10.0
+prom/promlens:v0.3.0   registry.cn-hangzhou.aliyuncs.com/hujiaming/promlens:v0.3.0
