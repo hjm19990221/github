@@ -1,2 +1,1 @@
-redis:5.0.7  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:5.0.7
-tomcat:8.0   registry.cn-hangzhou.aliyuncs.com/hujiaming/tomcat:8.0
+tomcat:10.0   registry.cn-hangzhou.aliyuncs.com/hujiaming/tomcat:10.0
