@@ -1,1 +1,4 @@
-registry.cn-hangzhou.aliyuncs.com/zhdya/open-webui:main  registry.cn-hangzhou.aliyuncs.com/hujiaming/open-webui:v1
+quay.io/argoproj/argocd:v2.14.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/argocd:v2.14.2
+ghcr.io/dexidp/dex:v2.41.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/dex:v2.41.1
+public.ecr.aws/docker/library/haproxy:2.6.17-alpine    registry.cn-hangzhou.aliyuncs.com/hujiaming/haproxy:2.6.17-alpine
+public.ecr.aws/docker/library/redis:7.0.15-alpine  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:7.0.15-alpine
