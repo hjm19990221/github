@@ -1,2 +1,2 @@
-registry.cnbeijing.aliyuncs.com/dotbalo/canary:v1  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v1
-registry.cnbeijing.aliyuncs.com/dotbalo/canary:v2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v2
+registry.cn-beijing.aliyuncs.com/dotbalo/canary:v1  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v1
+registry.cn-beijing.aliyuncs.com/dotbalo/canary:v2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v2
