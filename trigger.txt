@@ -1,1 +1,2 @@
-registry.k8s.io/ingress-nginx/controller:v1.11.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/controller:v1.11.0
+registry.cnbeijing.aliyuncs.com/dotbalo/canary:v1  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v1
+registry.cnbeijing.aliyuncs.com/dotbalo/canary:v2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v2
