@@ -1,2 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/canary:v1  registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v1
-registry.cn-beijing.aliyuncs.com/dotbalo/canary:v2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:v2
+ghcr.io/stakater/reloader:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/reloader:v1.3.0
