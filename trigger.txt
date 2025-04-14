@@ -1,1 +1,3 @@
-ghcr.io/stakater/reloader:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/reloader:v1.3.0
+docker.io/calico/cni:v3.29.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.29.3
+docker.io/calico/node:v3.29.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.29.3
+docker.io/calico/kube-controllers:v3.29.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.29.3
