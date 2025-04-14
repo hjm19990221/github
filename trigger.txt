@@ -1,4 +1,2 @@
-docker.io/kubernetesui/dashboard-web:1.6.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-web:1.6.2
-docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-metrics-scraper:1.2.2
-docker.io/kubernetesui/dashboard-api:1.11.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-api:1.11.1
-docker.io/kubernetesui/dashboard-auth:1.2.4 registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard-auth:1.2.4
+velero/velero-plugin-for-aws:v1.12.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/velero-plugin-for-aws:v1.12.0
+velero/velero:v1.15.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/velero:v1.15.2
