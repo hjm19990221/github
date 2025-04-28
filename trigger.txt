@@ -1,2 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/ingress-nginx-controller:v1.7.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/ingress-nginx-controller:v1.7.1
-registry.cn-beijing.aliyuncs.com/dotbalo/kube-webhook-certgen:v20230312 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-webhook-certgen:v20230312
+docker.elastic.co/eck/eck-operator:3.0.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/eck-operator:3.0.0
