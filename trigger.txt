@@ -1,1 +1,3 @@
-elasticsearch:8.16.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/elasticsearch:8.16.1
+kibana:8.16.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/kibana:8.16.1
+logstash:8.16.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/logstash:8.16.1
+elastic/filebeat:8.16.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/filebeat:8.16.1
