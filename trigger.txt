@@ -1,2 +1,2 @@
-quay.io/prometheus/prometheus-config-reloader:v0.83.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-config-reloader:v0.83.0
+prometheus-config-reloader:v0.83.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-config-reloader:v0.83.0
 
