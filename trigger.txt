@@ -1,3 +1,1 @@
-docker.io/calico/cni:v3.30.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.30.3
-docker.io/calico/node:v3.30.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.30.3 
-docker.io/calico/kube-controllers:v3.30.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.30.3
+kibana:8.17.5 registry.cn-hangzhou.aliyuncs.com/hujiaming/kibana:8.17.5
