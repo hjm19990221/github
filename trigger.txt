@@ -1,1 +1,1 @@
-filebeat:8.17.5 registry.cn-hangzhou.aliyuncs.com/hujiaming/filebeat:8.17.5
+nginx/nginx-prometheus-exporter:1.4 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx-prometheus-exporter:1.4
