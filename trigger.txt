@@ -1,2 +1,1 @@
 rancher/rancher:v2.12.3-alpha2-amd64 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.12.3-alpha2-amd64
-rancher:v2.12.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.12.3
