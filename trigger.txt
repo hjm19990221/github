@@ -1,1 +1,2 @@
-rancher/rancher:v2.12.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.12.2
+quay.io/metallb/controller:v0.15.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/controller:v0.15.2
+quay.io/metallb/speaker:v0.15.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/speaker:v0.15.2
