@@ -1,1 +1,2 @@
-bitnami/jenkins:2.504.3-debian-12-r1 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.504.3-debian-12-r1
+registry.cn-beijing.aliyuncs.com/dotbalo/jnlp-agentdocker:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/jnlp-slave:1.0.0
+registry.cn-beijing.aliyuncs.com/dotbalo/kanikoexecutor:debug registry.cn-hangzhou.aliyuncs.com/hujiaming/kaniko-executor:1.0.0
