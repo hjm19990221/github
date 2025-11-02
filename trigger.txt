@@ -1,2 +1,2 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/jnlp-agentdocker:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/jnlp-slave:1.0.0
-registry.cn-beijing.aliyuncs.com/dotbalo/kanikoexecutor:debug registry.cn-hangzhou.aliyuncs.com/hujiaming/kaniko-executor:1.0.0
+registry.cn-beijing.aliyuncs.com/dotbalo/jnlp-agent-docker:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/jnlp-slave:1.0.0
+registry.cn-beijing.aliyuncs.com/dotbalo/kaniko-executor:debug registry.cn-hangzhou.aliyuncs.com/hujiaming/kaniko-executor:1.0.0
