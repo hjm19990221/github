@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/kubectl:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/kubectl:alpine
+registry.cn-beijing.aliyuncs.com/dotbalo/node:lts registry.cn-hangzhou.aliyuncs.com/hujiaming/node:alpine-lts
