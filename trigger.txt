@@ -1,2 +1,1 @@
 nginx:1.23.4-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:1.23.4-alpine
-openjdk:11-jre registry.cn-hangzhou.aliyuncs.com/hujiaming/openjdk:11-jre
