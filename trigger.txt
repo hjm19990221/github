@@ -1,3 +1,5 @@
-quay.io/calico/cni:v3.31.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.31.2
-quay.io/calico/node:v3.31.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.31.2
-quay.io/calico/kube-controllers:v3.31.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.31.2
+mysql:8  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8
+redis:6.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6.2
+victoriametrics/victoria-metrics:v1.79.12  registry.cn-hangzhou.aliyuncs.com/hujiaming/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/nightingale:latest 
+flashcatcloud/categraf:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/categraf:latest
