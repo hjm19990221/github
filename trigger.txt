@@ -1,5 +1,2 @@
-mysql:8  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8
-redis:6.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6.2
-victoriametrics/victoria-metrics:v1.79.12  registry.cn-hangzhou.aliyuncs.com/hujiaming/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/nightingale:latest 
-flashcatcloud/categraf:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/categraf:latest
+docker.io/bitnami/mysql:8.4.3-debian-12-r4 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.4.3-debian-12-r4
+docker.io/bitnami/mysqld-exporter:0.16.0-debian-12-r2 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysqld-exporter:0.16.0-debian-12-r2
