@@ -1,1 +1,1 @@
-docker.io/bitnamilegacy/os-shell:12-debian-12-r33 registry.cn-hangzhou.aliyuncs.com/hujiaming/os-shell:12-debian-12-r33
+bitnamilegacy/mysql:5.7.43-debian-11-r8  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:5.7.43-debian-11-r8
