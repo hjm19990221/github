@@ -1,3 +1,1 @@
-quay.io/calico/cni:v3.31.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.31.2
-quay.io/calico/node:v3.31.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.31.2
-quay.io/calico/kube-controllers:v3.31.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.31.2
+ghcr.io/open-webui/open-webui:main  registry.cn-hangzhou.aliyuncs.com/hujiaming/open-webui:main
