@@ -1,1 +1,1 @@
-nvcr.io/nvidia/gpu-operator:v25.10.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/gpu-operator:v25.10.1
+nvcr.io/nvidia/gpu-operator:v25.10.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/gpu-operator:v25.10.1 
