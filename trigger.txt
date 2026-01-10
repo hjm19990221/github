@@ -1,1 +1,1 @@
-ghcr.io/tjhop/prometheus-mcp-server:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:v1.0.0
+ghcr.io/pab1it0/prometheus-mcp-server:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:v2.0.0
