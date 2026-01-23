@@ -1,1 +1,5 @@
-ghcr.io/pab1it0/prometheus-mcp-server:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:v2.0.0
+prom/prometheus:v3.5.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus:v3.5.1
+prom/alertmanager:v0.30.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/alertmanager:v0.30.1
+ghcr.io/google/cadvisor:0.55.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/cadvisor:0.55.1 
+prom/node-exporter:v1.10.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/node-exporter:v1.10.2 
+grafana/grafana:12.4.0-21230963995-ubuntu   registry.cn-hangzhou.aliyuncs.com/hujiaming/grafana:12.4.0-21230963995-ubuntu
