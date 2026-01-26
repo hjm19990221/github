@@ -1,1 +1,2 @@
-jenkins/jenkins:2.541.1-lts-jdk17  registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.541.1-jdk17
+mysql:8.0.45  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.45
+mysql:8.0.45-debian registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.45-debian
