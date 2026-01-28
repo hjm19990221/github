@@ -1,2 +1,2 @@
-mysql:8.0.45  registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.45
-mysql:8.0.45-debian registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.45-debian
+registry.cn-beijing.aliyuncs.com/dotbalo/dashboard:v2.7.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard:v2.7.0 
+registry.cn-beijing.aliyuncs.com/dotbalo/metrics-scraper:v1.0.8 registry.cn-hangzhou.aliyuncs.com/hujiaming/metrics-scraper:v1.0.8
