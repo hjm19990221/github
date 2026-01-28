@@ -1,2 +1,3 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/dashboard:v2.7.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/dashboard:v2.7.0 
-registry.cn-beijing.aliyuncs.com/dotbalo/metrics-scraper:v1.0.8 registry.cn-hangzhou.aliyuncs.com/hujiaming/metrics-scraper:v1.0.8
+quay.io/calico/cni:v3.31.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.31.3
+quay.io/calico/node:v3.31.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.31.3
+quay.io/calico/kube-controllers:v3.31.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.31.3
