@@ -1,3 +1,2 @@
-quay.io/calico/cni:v3.31.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.31.3
-quay.io/calico/node:v3.31.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.31.3
-quay.io/calico/kube-controllers:v3.31.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.31.3
+registry.cn-hangzhou.aliyuncs.com/rancher/rancher:v2.13.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.13.2
+registry.cn-hangzhou.aliyuncs.com/rancher/rancher-agent:v2.13.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.13.2
