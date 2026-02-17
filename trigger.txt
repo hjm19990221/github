@@ -1,1 +1,1 @@
-quay.io/ceph/ceph:v19.2.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/ceph:v19.2.3
+quay.io/ceph/ceph:v19 registry.cn-hangzhou.aliyuncs.com/hujiaming/ceph:v19
