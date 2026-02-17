@@ -1,1 +1,1 @@
-docker.io/rook/ceph:v1.19.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/ceph:v1.19.1
+quay.io/ceph/ceph:v19.2.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/ceph:v19.2.3
