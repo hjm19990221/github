@@ -1,1 +1,1 @@
-wordpress:php8.5-fpm-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/wordpress:php8.5-fpm-alpine
+registry.k8s.io/sig-storage/snapshot-controller:v8.4.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/snapshot-controller:v8.4.0
