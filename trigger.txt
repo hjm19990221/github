@@ -1,1 +1,3 @@
-registry.k8s.io/sig-storage/snapshot-controller:v8.4.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/snapshot-controller:v8.4.0
+registry.k8s.io/autoscaling/vpa-admission-controller:1.6.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/vpa-admission-controller:1.6.0
+registry.k8s.io/autoscaling/vpa-recommender:1.6.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/vpa-recommender:1.6.0
+registry.k8s.io/autoscaling/vpa-updater:1.6.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/vpa-updater:1.6.0
