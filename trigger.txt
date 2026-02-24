@@ -1,1 +1,2 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/stress:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/stress:latest
+sonarqube:26.2.0.119303-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube:26.2.0.119303-community
+postgres:17 registry.cn-hangzhou.aliyuncs.com/hujiaming/postgres:17
