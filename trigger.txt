@@ -1,1 +1,1 @@
-mysql:8.0.20 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.20
+mysql:8.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0
