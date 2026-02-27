@@ -1,2 +1,1 @@
-sonarqube:26.2.0.119303-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube:26.2.0.119303-community
-postgres:17 registry.cn-hangzhou.aliyuncs.com/hujiaming/postgres:17
+mysql/mysql:8.0.20 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.20
