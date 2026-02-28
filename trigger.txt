@@ -1,1 +1,1 @@
-mysql:8.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0
+jenkins/jenkins:2.541.2-lts-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.541.2-lts-jdk17
