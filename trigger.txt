@@ -1,1 +1,1 @@
-jenkins/jenkins:2.541.2-lts-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.541.2-lts-jdk17
+sonatype/nexus3:3.70.5 registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.70.5
