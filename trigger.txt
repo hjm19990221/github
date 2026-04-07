@@ -1,2 +1,1 @@
-sonatype/nexus3:3.90.2-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.90.2-alpine
-sonatype/nexus3:3.90.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.90.2
+mc1arke/sonarqube-with-community-branch-plugin:26.3.0.120487-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube-with-community-branch-plugin:26.3.0.120487-community
