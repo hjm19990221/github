@@ -1,1 +1,2 @@
-sonatype/nexus3:3.70.5 registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.70.5
+sonatype/nexus3:3.90.2-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.90.2-alpine
+sonatype/nexus3:3.90.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.90.2
