@@ -1,1 +1,1 @@
-mc1arke/sonarqube-with-community-branch-plugin:26.3.0.120487-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube-with-community-branch-plugin:26.3.0.120487-community
+openjdk:8u212-alpine3.9 registry.cn-hangzhou.aliyuncs.com/hujiaming/openjdk:8u212-alpine3.9 
