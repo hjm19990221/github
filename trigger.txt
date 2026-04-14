@@ -1,1 +1,1 @@
-openjdk:8u212-alpine3.9 registry.cn-hangzhou.aliyuncs.com/hujiaming/openjdk:8u212-alpine3.9 
+rancher/rancher:v2.14.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.0
