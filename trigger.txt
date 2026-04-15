@@ -1,1 +1,1 @@
-rancher/rancher:v2.14.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.0
+rancher/rancher-agent:v2.14.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.14.0
