@@ -1,1 +1,1 @@
-jenkins/jenkins:2.541.3-lts-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.541.3-lts-jdk17
+jenkins/ssh-agent:debian-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/ssh-agent:debian-jdk17
