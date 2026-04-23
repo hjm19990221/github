@@ -1,1 +1,1 @@
-jenkins/ssh-agent:debian-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/ssh-agent:debian-jdk17
+sonarsource/sonar-scanner-cli:12.1.0.3225_8.0.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/sonar-scanner-cli:12.1.0.3225_8.0.1
