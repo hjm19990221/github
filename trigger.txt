@@ -1,1 +1,1 @@
-maven:3.8.6-openjdk-11 registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.8.6-openjdk-11
+jenkins/jenkins:2.541.3-lts-jdk17 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.541.3-lts-jdk17
