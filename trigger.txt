@@ -1,1 +1,3 @@
-sonarsource/sonar-scanner-cli:12.1.0.3225_8.0.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/sonar-scanner-cli:12.1.0.3225_8.0.1
+quay.io/calico/cni:v3.32.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.32.0
+quay.io/calico/node:v3.32.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.32.0
+quay.io/calico/kube-controllers:v3.32.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.32.0
