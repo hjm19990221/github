@@ -1,3 +1,2 @@
-rockylinux:9.3.20231119 registry.cn-hangzhou.aliyuncs.com/hujiaming/rockylinux:9.3.20231119
-ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/hujiaming/ubuntu:22.04
-ubuntu:24.04 registry.cn-hangzhou.aliyuncs.com/hujiaming/ubuntu:24.04
+rancher/rancher:v2.14.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.1
+rancher/rancher-agent:v2.14.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.14.1
