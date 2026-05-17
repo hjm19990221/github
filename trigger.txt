@@ -1,1 +1,1 @@
-mc1arke/sonarqube-with-community-branch-plugin:26.3.0.120487-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube-with-community-branch-plugin:26.3.0.120487-community
+provectuslabs/kafka-ui:v0.7.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/kafka-ui:v0.7.2
