@@ -1,2 +1,1 @@
-rancher/rancher:v2.14.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.1
-rancher/rancher-agent:v2.14.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.14.1
+mc1arke/sonarqube-with-community-branch-plugin:26.3.0.120487-community registry.cn-hangzhou.aliyuncs.com/hujiaming/sonarqube-with-community-branch-plugin:26.3.0.120487-community
