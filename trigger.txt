@@ -1,1 +1,1 @@
-ghcr.io/google/cadvisor:0.55.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/cadvisor:0.55.1
+sonatype/nexus3:3.92.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/sonatype/nexus3:3.92.2
