@@ -1,1 +1,2 @@
-sonatype/nexus3:3.92.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nexus3:3.92.2
+rancher/rancher:v2.14.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.2
+rancher/rancher-agent:v2.14.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.14.2
