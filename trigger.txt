@@ -1,2 +1,2 @@
-rancher/rancher:v2.14.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.14.2
-rancher/rancher-agent:v2.14.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.14.2
+grafana/grafana:12.3.7 registry.cn-hangzhou.aliyuncs.com/hujiaming/grafana:12.3.7
+grafana/alloy:v1.16.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/alloy:v1.16.2
