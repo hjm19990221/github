@@ -1,1 +1,1 @@
-grafana/loki:3.7.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/loki:3.7.2
+grafana/grafana:12.3.7 registry.cn-hangzhou.aliyuncs.com/hujiaming/grafana:12.3.7
