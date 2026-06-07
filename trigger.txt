@@ -1,7 +1,1 @@
-registry.k8s.io/sig-storage/csi-provisioner:v6.1.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/csi-provisioner:v6.1.0
-registry.k8s.io/sig-storage/csi-resizer:v2.0.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/csi-resizer:v2.0.0
-registry.k8s.io/sig-storage/csi-snapshotter:v8.4.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/csi-snapshotter:v8.4.0
-registry.k8s.io/sig-storage/livenessprobe:v2.17.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/livenessprobe:v2.17.0
-registry.k8s.io/sig-storage/nfsplugin:v4.13.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/nfsplugin:v4.13.2
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.15.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/csi-node-driver-registrar:v2.15.0
-registry.k8s.io/sig-storage/snapshot-controller:v8.4.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/snapshot-controller:v8.4.0
+grafana/loki:3.7.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/loki:3.7.2
