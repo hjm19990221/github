@@ -1,1 +1,1 @@
-grafana/alloy:v1.16.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/alloy:v1.16.2
+minio/minio:RELEASE.2025-09-07T16-13-09Z registry.cn-hangzhou.aliyuncs.com/hujiaming/minio:RELEASE.2025-09-07T16-13-09Z
