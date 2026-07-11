@@ -1,1 +1,1 @@
-elasticsearch:9.4.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/elasticsearch:9.4.3
+busybox:1.36 registry.cn-hangzhou.aliyuncs.com/hujiaming/busybox:1.36
