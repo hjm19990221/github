@@ -1,3 +1,1 @@
-kibana:9.4.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/kibana:9.4.3
-logstash:9.4.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/logstash:9.4.3
-elastic/filebeat:9.4.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/filebeat:9.4.3
+docker.io/bitnami/kafka:4.0.0-debian-12-r10 registry.cn-hangzhou.aliyuncs.com/hujiaming/kafka:4.0.0-debian-12-r10
