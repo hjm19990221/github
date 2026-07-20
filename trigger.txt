@@ -1,1 +1,5 @@
-ghcr.io/kafbat/kafka-ui:v1.5.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/kafka-ui:v1.5.0
+docker.io/library/maven:3.9.9-eclipse-temurin-17 registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.9.9-eclipse-temurin-17
+docker.io/library/eclipse-temurin:17-jre registry.cn-hangzhou.aliyuncs.com/hujiaming/eclipse-temurin:17-jre
+docker.io/library/node:22-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/node:22-alpine 
+docker.io/library/nginx:1.29-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:1.29-alpine 
+docker.io/curlimages/curl:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/curl:latest
