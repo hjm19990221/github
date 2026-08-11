@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:19.0.5-ce.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/gitlab-ce:19.0.5-ce.0
+jenkins/jenkins:2.568.2-lts-jdk21 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.568.2-lts-jdk21
