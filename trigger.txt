@@ -1,1 +1,1 @@
-jenkins/jenkins:2.568.2-lts-jdk21 registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.568.2-lts-jdk21
+jenkins/inbound-agent:jdk21 registry.cn-hangzhou.aliyuncs.com/hujiaming/inbound-agent:jdk21
