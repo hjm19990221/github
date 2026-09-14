@@ -1,5 +1,5 @@
 prom/prometheus:v3.13.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus:v3.13.3 
 prom/alertmanager:v0.34.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/alertmanager:v0.34.0
 grafana/grafana:13.2.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/grafana:13.2.1
-quay.io/prometheus/node-exporter:v1.12.1  registry.cn-hangzhou.aliyuncs.com/node-exporter:v1.12.1
-ghcr.io/google/cadvisor:0.55.1 registry.cn-hangzhou.aliyuncs.com/cadvisor:0.55.1
+quay.io/prometheus/node-exporter:v1.12.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/node-exporter:v1.12.1
+ghcr.io/google/cadvisor:0.55.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/cadvisor:0.55.1
