@@ -1,5 +1,1 @@
-quay.io/tigera/operator:v1.42.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/operator:v1.42.3
-quay.io/calico/node:v3.32.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/node:v3.32.1
-quay.io/calico/cni:v3.32.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/cni:v3.32.1
-quay.io/calico/kube-controllers:v3.32.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/kube-controllers:v3.32.1
-quay.io/calico/typha:v3.32.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/typha:v3.32.1
+jenkins/inbound-agent:jdk21 registry.cn-hangzhou.aliyuncs.com/hujiaming/inbound-agent:jdk21 
