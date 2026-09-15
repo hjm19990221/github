@@ -1,5 +1,6 @@
-prom/prometheus:v3.13.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus:v3.13.3 
-prom/alertmanager:v0.34.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/alertmanager:v0.34.0
-grafana/grafana:13.2.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/grafana:13.2.1
-quay.io/prometheus/node-exporter:v1.12.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/node-exporter:v1.12.1
-ghcr.io/google/cadvisor:0.55.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/cadvisor:0.55.1
+maven:3.9.9-eclipse-temurin-17 registry.cn-hangzhou.aliyuncs.com/hujiaming/maven:3.9.9-eclipse-temurin-17
+node:20-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/node:20-alpine
+eclipse-temurin:17-jre-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/eclipse-temurin:17-jre-alpine
+nginx:1.27-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:1.27-alpine
+mysql:8.4 registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.4
+redis:7.4 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:7.4
