@@ -1,12 +1,1 @@
-busybox:latest    registry.cn-hangzhou.aliyuncs.com/hujiaming/busybox:latest  
-langgenius/dify-api:1.17.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-api:1.17.1
-langgenius/dify-web:1.17.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-web:1.17.1
-postgres:15-alpine  registry.cn-hangzhou.aliyuncs.com/hujiaming/postgres:15-alpine 
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:6-alpine
-langgenius/dify-sandbox:0.2.15 registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-sandbox:0.2.15
-langgenius/dify-agent-local-sandbox:1.17.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-agent-local-sandbox:1.17.1
-langgenius/dify-plugin-daemon:0.6.10-local registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-plugin-daemon:0.6.10-local
-langgenius/dify-agent-backend:1.17.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/dify-agent-backend:1.17.1
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/squid:latest
-nginx:latest registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:latest
-cr.weaviate.io/semitechnologies/weaviate:1.39.2 registry.cn-hangzhou.aliyuncs.com/hujiaming/weaviate:1.39.2
+talkopsai/prometheus-mcp-server:latest    registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:latest
