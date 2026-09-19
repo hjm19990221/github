@@ -1,1 +1,1 @@
-talkopsai/prometheus-mcp-server:0.1.11    registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:0.1.11
+ghcr.io/pab1it0/prometheus-mcp-server:latest   registry.cn-hangzhou.aliyuncs.com/hujiaming/prometheus-mcp-server:latest 
