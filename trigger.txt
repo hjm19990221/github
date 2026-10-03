@@ -1,1 +1,1 @@
-ghcr.io/astral-sh/uv:python3.13-bookworm-slim   registry.cn-hangzhou.aliyuncs.com/hujiaming/uv:python3.13-bookworm-slim
+jenkins/jenkins:2.580.1-lts-jdk21  registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.580.1-lts-jdk21
