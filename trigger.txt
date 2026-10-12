@@ -1,1 +1,1 @@
-jenkins/jenkins:2.580.1-lts-jdk21  registry.cn-hangzhou.aliyuncs.com/hujiaming/jenkins:2.580.1-lts-jdk21
+quay.io/tigera/operator:v1.42.6  registry.cn-hangzhou.aliyuncs.com/hujiaming/operator:v1.42.6
