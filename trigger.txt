@@ -1,1 +1,1 @@
-docker.io/calico/pod2daemon-flexvol:v3.32.2  registry.cn-hangzhou.aliyuncs.com/hujiaming/pod2daemon-flexvol:v3.32.2
+eclipse-temurin:17-jdk  registry.cn-hangzhou.aliyuncs.com/hujiaming/eclipse-temurin:17-jdk
