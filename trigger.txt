@@ -1,1 +1,3 @@
-quay.io/opstree/redis-operator:v0.27.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis-operator:v0.27.0
+quay.io/opstree/redis:v7.0.15  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:v7.0.15
+quay.io/opstree/redis-sentinel:v7.0.15  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis-sentinel:v7.0.15
+quay.io/opstree/redis-exporter:v1.44.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis-exporter:v1.44.0
