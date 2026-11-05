@@ -1,3 +1,2 @@
-quay.io/opstree/redis:v7.0.15  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis:v7.0.15
-quay.io/opstree/redis-sentinel:v7.0.15  registry.cn-hangzhou.aliyuncs.com/hujiaming/redis-sentinel:v7.0.15
-quay.io/opstree/redis-exporter:v1.44.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/redis-exporter:v1.44.0
+rancher/rancher:v2.15.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.15.3
+rancher/rancher-agent:v2.15.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.15.3
