@@ -1,1 +1,4 @@
-elasticsearch:8.18.8  registry.cn-hangzhou.aliyuncs.com/hujiaming/elasticsearch:8.18.8
+docker.io/apache/skywalking-oap-server:11.0.0  registry.cn-hangzhou.aliyuncs.com/hujiaming/skywalking-oap-server:11.0.0
+docker.io/apache/skywalking-ui:horizon-1.0.0 registry.cn-hangzhou.aliyuncs.com/hujiaming/skywalking-ui:horizon-1.0.0
+docker.elastic.co/eck/eck-operator:3.3.1 registry.cn-hangzhou.aliyuncs.com/hujiaming/eck-operator:3.3.1
+docker.io/library/busybox:1.30 registry.cn-hangzhou.aliyuncs.com/hujiaming/eck-operator:1.30
