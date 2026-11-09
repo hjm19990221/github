@@ -1,2 +1,1 @@
-rancher/rancher:v2.15.3  registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher:v2.15.3
-rancher/rancher-agent:v2.15.3 registry.cn-hangzhou.aliyuncs.com/hujiaming/rancher-agent:v2.15.3
+elasticsearch:8.18.8  registry.cn-hangzhou.aliyuncs.com/hujiaming/elasticsearch:8.18.8
