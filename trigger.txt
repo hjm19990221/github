@@ -1,1 +1,1 @@
-elastic/eck-operator:3.3.1  registry.cn-hangzhou.aliyuncs.com/hujiaming/eck-operator:3.3.1
+busybox:1.30  registry.cn-hangzhou.aliyuncs.com/hujiaming/busybox:1.30
