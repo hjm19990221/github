@@ -1,1 +1,1 @@
-busybox:1.30  registry.cn-hangzhou.aliyuncs.com/hujiaming/busybox:1.30
+node:24-bookworm  registry.cn-hangzhou.aliyuncs.com/hujiaming/node:24-bookworm
