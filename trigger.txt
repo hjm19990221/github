@@ -1,1 +1,1 @@
-node:24-bookworm  registry.cn-hangzhou.aliyuncs.com/hujiaming/node:24-bookworm
+apache/skywalking-java-agent:9.8.0-java21  registry.cn-hangzhou.aliyuncs.com/hujiaming/skywalking-java-agent:9.8.0-java21
