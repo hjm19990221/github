@@ -1,1 +1,1 @@
-apache/skywalking-java-agent:9.8.0-java21  registry.cn-hangzhou.aliyuncs.com/hujiaming/skywalking-java-agent:9.8.0-java21
+springio/gs-spring-boot-docker:latest  registry.cn-hangzhou.aliyuncs.com/hujiaming/gs-spring-boot-docker:latest
